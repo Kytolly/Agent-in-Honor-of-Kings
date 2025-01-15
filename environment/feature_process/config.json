@@ -1,0 +1,11 @@
+{
+  "reward_money": "0.047",
+  "reward_exp": "0.047" ,
+  "reward_hp_point": "5.0",
+  "reward_ep_rate": "0.75",
+  "reward_kill": "-0.35",
+  "reward_dead": "-1.35",
+  "reward_tower_hp_point": "6.4",
+  "reward_last_hit": "0.32",
+  "log_level": "8"
+}
